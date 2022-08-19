@@ -1,0 +1,19 @@
+﻿
+#myVideo {
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+.modimg {
+    max-width: 260px;
+}
+.fimg {
+    max-width: 80px;
+}
+.bimg {
+    max-width: 250px;
+}
